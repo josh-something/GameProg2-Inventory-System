@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a3319368797a13458999644093ea64a, type: 3}
   m_Name: Axe
   m_EditorClassIdentifier: 
-  designatedSprite: {fileID: 0}
-  itemID: 0
-  description: Item Description
-  itemType: 0
+  designatedSprite: {fileID: 21300000, guid: f14dae84554685f4084e82cfe2061c1a, type: 3}
+  itemID: Axe
+  description: A trusty axe. Useful for cutting down trees, large shrubs, and ill-placed
+    mailboxes.
+  itemType: 1
   stackSize: 1

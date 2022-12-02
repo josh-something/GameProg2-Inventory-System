@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a3319368797a13458999644093ea64a, type: 3}
   m_Name: Carrot
   m_EditorClassIdentifier: 
-  designatedSprite: {fileID: 0}
-  itemID: 0
-  description: Item Description
-  itemType: 0
-  stackSize: 1
+  designatedSprite: {fileID: 21300000, guid: 9d4b54d7f114fa0449d9549a136f4598, type: 3}
+  itemID: Carrot
+  description: A fresh Carrot, the favoured snack of the majestic rabbit.
+  itemType: 2
+  stackSize: 64

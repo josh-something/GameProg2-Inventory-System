@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a3319368797a13458999644093ea64a, type: 3}
   m_Name: Steak
   m_EditorClassIdentifier: 
-  designatedSprite: {fileID: 0}
-  itemID: 0
-  description: Item Description
-  itemType: 0
-  stackSize: 1
+  designatedSprite: {fileID: 21300000, guid: 3f3a43566c3569f4790501ca9d831458, type: 3}
+  itemID: Steak
+  description: A delectable steak, well-done and cooked to perfection.
+  itemType: 2
+  stackSize: 64
